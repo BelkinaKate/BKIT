@@ -1,0 +1,6 @@
+C:\Users\belun\Documents\Проги\аба1CSharp\аба1CSharp\bin\Debug\аба1CSharp.exe.config
+C:\Users\belun\Documents\Проги\аба1CSharp\аба1CSharp\bin\Debug\аба1CSharp.exe
+C:\Users\belun\Documents\Проги\аба1CSharp\аба1CSharp\bin\Debug\аба1CSharp.pdb
+C:\Users\belun\Documents\Проги\аба1CSharp\аба1CSharp\obj\Debug\аба1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\belun\Documents\Проги\аба1CSharp\аба1CSharp\obj\Debug\аба1CSharp.exe
+C:\Users\belun\Documents\Проги\аба1CSharp\аба1CSharp\obj\Debug\аба1CSharp.pdb

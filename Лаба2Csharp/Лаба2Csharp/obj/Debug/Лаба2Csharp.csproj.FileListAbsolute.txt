@@ -1,0 +1,7 @@
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\obj\Debug\Лаба2Csharp.csprojResolveAssemblyReference.cache
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\obj\Debug\Лаба2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\bin\Debug\Лаба2Csharp.exe.config
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\bin\Debug\Лаба2Csharp.exe
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\bin\Debug\Лаба2Csharp.pdb
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\obj\Debug\Лаба2Csharp.exe
+C:\Users\belun\Documents\Проги\Лаба2Csharp\Лаба2Csharp\obj\Debug\Лаба2Csharp.pdb
