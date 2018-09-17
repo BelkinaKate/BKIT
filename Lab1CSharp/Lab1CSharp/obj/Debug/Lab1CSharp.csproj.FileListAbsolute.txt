@@ -1,0 +1,7 @@
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\bin\Debug\аба1CSharp.exe.config
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\bin\Debug\аба1CSharp.exe
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\bin\Debug\аба1CSharp.pdb
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.csprojResolveAssemblyReference.cache
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\obj\Debug\аба1CSharp.exe
+C:\Users\belun\Documents\Проги\BKIT\Lab1CSharp\Lab1CSharp\obj\Debug\аба1CSharp.pdb
