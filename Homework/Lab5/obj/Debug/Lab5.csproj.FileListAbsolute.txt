@@ -1,0 +1,6 @@
+c:\Users\Mihail\source\repos\Homework\Lab5\bin\Debug\Lab5.dll
+c:\Users\Mihail\source\repos\Homework\Lab5\bin\Debug\Lab5.pdb
+c:\Users\Mihail\source\repos\Homework\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+c:\Users\Mihail\source\repos\Homework\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+c:\Users\Mihail\source\repos\Homework\Lab5\obj\Debug\Lab5.dll
+c:\Users\Mihail\source\repos\Homework\Lab5\obj\Debug\Lab5.pdb

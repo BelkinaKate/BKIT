@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_Belkina", "Lab6_Belkina\Lab6_Belkina.csproj", "{773B7AD9-CB38-401C-83E5-14B0D6D2D5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_part2_Belkina", "ConsoleApp1\Lab6_part2_Belkina.csproj", "{4E20C997-24A9-44BF-A900-6FA51A179061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773B7AD9-CB38-401C-83E5-14B0D6D2D5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773B7AD9-CB38-401C-83E5-14B0D6D2D5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773B7AD9-CB38-401C-83E5-14B0D6D2D5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773B7AD9-CB38-401C-83E5-14B0D6D2D5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E20C997-24A9-44BF-A900-6FA51A179061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E20C997-24A9-44BF-A900-6FA51A179061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E20C997-24A9-44BF-A900-6FA51A179061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E20C997-24A9-44BF-A900-6FA51A179061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E29B32-A6B3-43E7-B6EA-AD23D816D078}
+	EndGlobalSection
+EndGlobal

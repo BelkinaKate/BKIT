@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\obj\Debug\Lab7_Belkina.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\obj\Debug\Lab7_Belkina.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\bin\Debug\Lab7_Belkina.exe.config
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\bin\Debug\Lab7_Belkina.exe
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\bin\Debug\Lab7_Belkina.pdb
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\obj\Debug\Lab7_Belkina.exe
+C:\Users\Student\source\repos\Lab7_Belkina\Lab7_Belkina\obj\Debug\Lab7_Belkina.pdb
+E:\Lab7_Belkina\Lab7_Belkina\bin\Debug\Lab7_Belkina.exe.config
+E:\Lab7_Belkina\Lab7_Belkina\obj\Debug\Lab7_Belkina.exe
+E:\Lab7_Belkina\Lab7_Belkina\obj\Debug\Lab7_Belkina.pdb

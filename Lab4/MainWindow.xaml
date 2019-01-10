@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lab4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4"
+        mc:Ignorable="d"
+        Title="Lab4" Height="383.678" Width="832.851">
+    <Grid>
+        <Button x:Name="openFile" Content="Открыть файл" HorizontalAlignment="Left" Height="30" Margin="29,20,0,0" VerticalAlignment="Top" Width="99" Click="OpenFile_Click"/>
+        <Label x:Name="openTimer" Content="" HorizontalAlignment="Left" Margin="183,20,0,0" VerticalAlignment="Top" Height="30" Width="217"/>
+        <TextBox x:Name="findWord" HorizontalAlignment="Left" Height="23" Margin="225,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Слово для поиска:" HorizontalAlignment="Left" Margin="31,95,0,0" VerticalAlignment="Top" Height="23"/>
+        <Button x:Name="search" Content="Найти" HorizontalAlignment="Left" Margin="31,129,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Search_Click"/>
+        <Label x:Name="label1" Content="Максимальное расстояние:" HorizontalAlignment="Left" Margin="31,64,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.006,0.318"/>
+        <TextBox x:Name="maxDist" HorizontalAlignment="Left" Height="23" Margin="225,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="searchTimer" Content="" HorizontalAlignment="Left" Margin="183,129,0,0" VerticalAlignment="Top" Height="23" Width="217"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="178" Margin="31,165,0,0" VerticalAlignment="Top" Width="369"/>
+
+    </Grid>
+</Window>
